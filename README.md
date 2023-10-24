@@ -3,7 +3,7 @@
 
 - 📱 I'm a Flutter Developer and I love creating apps
 - 👩‍💻 My key hard skills are: Flutter, Dart, bloc, Firebase, Hive, REST API, JSON, SQL
-- ▶️ I'm currently working on Hypestr app with my team and also some solo pet projects
+- ▶️ I'm currently working on Hypester app with my team and also some solo pet projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zoya-belova/) 
 - ⚡ Fun fact: While playing Magic: The Gathering World Cup I beat reigning World Champion! (I have the video 😊)
   
